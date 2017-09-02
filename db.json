@@ -11,7 +11,7 @@
   "profile": {
     "name": "typicode"
   },
-  "checkversion": {
-    "version": 150
+  "firmware": {
+    "version": "150"
   }
 }
