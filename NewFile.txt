@@ -1,2 +1,3 @@
 Local new File.  Amended
+Local new File (amended local)
 Add new lines in remote GITHUB
